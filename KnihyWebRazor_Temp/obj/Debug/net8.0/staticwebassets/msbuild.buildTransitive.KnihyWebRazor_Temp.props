@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KnihyWebRazor_Temp.props" />
+</Project>
